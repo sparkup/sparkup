@@ -6,4 +6,4 @@
 
 ## About 
 
-We build flexible e-commerce solutions using Symfony, Vue.js and Docker.  
+We build flexible custom solutions using Symfony, Vue.js and Docker.  
